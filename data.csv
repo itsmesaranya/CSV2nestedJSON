@@ -1,0 +1,21 @@
+id,category,sub_category,sub_category_type,count
+0,fruits,citrus,lemon,30
+1,fruits,citrus,lemon,40
+2,fruits,citrus,lemon,50
+3,fruits,citrus,grapefruit,20
+4,fruits,citrus,orange,40
+5,fruits,citrus,orange,10
+6,fruits,berries,blueberry,20
+7,fruits,berries,strawberry,50
+8,fruits,berries,strawberry,90
+9,fruits,berries,cranberry,70
+10,fruits,berries,raspberry,16
+11,fruits,berries,raspberry,80
+12,fruits,dried fruit,raisins,10
+13,fruits,dried fruit,dates,15
+14,fruits,dried fruit,dates,10
+15,vegtables,legumes,beans,12
+16,vegtables,legumes,beans,15
+17,vegtables,legumes,chickpea,12
+18,vegtables,green leaf,spinach,18
+19,vegtables,green leaf,cress,19
